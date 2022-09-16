@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React,Express,C,Cpp,**
 
-- 📫 How to reach me **hbsbashitha@gmail.com**
+- 📫 How to reach me **dsahan548@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😂**
 
