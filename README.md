@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Pharma**
 
-- 🌱 I’m currently learning **React, NodeJS, and ExpressJS**
+- 🌱 I’m currently learning **Spring boot,Java, ASP.NET core(MVC)**
 
 - 💬 Ask me about **C, HTML, MySQL, React, PHP**
 
